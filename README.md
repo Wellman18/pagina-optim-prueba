@@ -1,1 +1,1 @@
-# pagina-optim-prueba Este es un proyecto que lo realicé voluntariamente como una propuesta para la empresa "Optim America" si acaso se daba la oprtunidad en un futuro
+# pagina-optim-prueba Este es un proyecto que lo realicé voluntariamente como una propuesta (la cual todavía no está completa 100%) para la empresa "Optim America" si acaso se daba la oprtunidad en un futuro
